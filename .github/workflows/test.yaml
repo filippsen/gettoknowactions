@@ -21,4 +21,4 @@ jobs:
         #go get -v -t -d ./...
         #go build -v .
         go test
-        docker-machine version
+        docker-compose version
